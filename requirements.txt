@@ -13,28 +13,18 @@ tf-keras
 hf_xet
 fastapi[standard]
 
+
 # flask-cors
 # requests
 torch
 
 
 
-
 prisma
 fastapi-jwt-auth
-prisma
-# fastapi-jwt-auth
-
 
 flask-cors
 requests
 torch
 prisma
-
-PyJWT
-Werkzeug
-
-email-validator
-
-bcrypt
-pydantic-settings
+pydantic<2.0
